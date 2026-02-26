@@ -118,6 +118,7 @@ This repository is designed for **PhD students, postdocs, and applied researcher
 * Harron et al. – *Methodological developments in data linkage*
 * IPDLN resources and conference proceedings
 * ADR UK & SAIL Databank methodological guidance
+* Dusetzina et al. - Linking Data for Health Services Research: A Framework and Instructional Guide, 4. An Overview of Record Linkage Methods. [https://www.ncbi.nlm.nih.gov/books/NBK253312/]
 
 
 ---
